@@ -55,7 +55,7 @@ local function DrawLine(From, To)
         Line.Thickness = 1;
         Line.From = FromPos
         Line.To = ToPos
-        Line.Color = Color3.fromRGB(255, 255, 255);
+        Line.Color = Color3.fromRGB(5, 25, 55);
         Line.Transparency = 1;
         Line.ZIndex = 1;
         Line.Visible = true;
